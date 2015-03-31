@@ -1,3 +1,8 @@
 #!/usr/bin/python
 
-print "Hello World"
+class Hello():
+	def __init__(self):
+
+		print "Hello World"
+
+x = Hello()
